@@ -8,3 +8,7 @@ example : Add changes to implementation of etl ingestion
 
 Branch name format : 
 YYYYMMDD-Feature/Bugfix/Update-Brief-Description
+
+
+Important  : 
+    -- Install wrangler to access cloudflare cli
